@@ -9,7 +9,7 @@ GIT STRUCTURE:
 
 Approach:
 1. Start from develop
-  git checkout develop
+  git checkout develop  
   git pull origin develop  # Ensure you have the latest code
 2. Create a Feature Branch
   git checkout -b feature/<feature-name>
